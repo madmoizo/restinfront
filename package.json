@@ -30,6 +30,6 @@
     "typescript": "^4.7.3"
   },
   "dependencies": {
-    "utililib": "^1.12.0"
+    "utililib": "^2.0.0"
   }
 }
